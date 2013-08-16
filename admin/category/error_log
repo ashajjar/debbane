@@ -1,0 +1,6 @@
+[26-Jun-2012 18:56:06] PHP Warning:  include_once(../common/header.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/debbane/public_html/admin/category/categories.php on line 2
+[26-Jun-2012 18:56:06] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '../common/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/debbane/public_html/admin/category/categories.php on line 2
+[26-Jun-2012 18:56:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'debbane'@'localhost' (using password: NO) in /home/debbane/public_html/admin/category/categories.php on line 16
+[26-Jun-2012 18:56:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/debbane/public_html/admin/category/categories.php on line 16
+[26-Jun-2012 18:56:06] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/debbane/public_html/admin/category/categories.php on line 17
+[26-Jun-2012 18:56:06] PHP Fatal error:  Call to undefined function createComboBox() in /home/debbane/public_html/admin/category/categories.php on line 23

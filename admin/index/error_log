@@ -1,0 +1,2 @@
+[05-Feb-2012 18:52:28] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/debbane/public_html/final/view/labels/labels_ar.php:1) in /home/debbane/public_html/final/admin/index/login.php on line 18
+[05-Feb-2012 20:04:09] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/debbane/public_html/final/view/labels/labels_en.php:1) in /home/debbane/public_html/final/admin/index/login.php on line 18

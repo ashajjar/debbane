@@ -1,0 +1,3 @@
+[09-Jul-2012 16:50:25] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/debbane/public_html/common/database.php on line 15
+[04-Sep-2012 22:36:57] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/debbane/public_html/view/category/categories.php on line 16
+[04-Sep-2012 22:36:59] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/debbane/public_html/view/category/categories.php on line 16

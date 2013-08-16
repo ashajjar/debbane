@@ -1,0 +1,2 @@
+[04-Feb-2012 19:50:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/debbane/public_html/final/view/news/news.php on line 61
+[04-Feb-2012 19:50:45] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/debbane/public_html/final/view/news/news.php on line 62

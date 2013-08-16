@@ -1,0 +1,2 @@
+[25-Jul-2012 03:01:05] PHP Warning:  include(../../../../../../../config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debbane/public_html/admin/includes/tinymce/jscripts/tiny_mce/plugins/advlink/link1.php on line 2
+[28-Aug-2012 00:38:38] PHP Warning:  include(../../../../../../../config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debbane/public_html/admin/includes/tinymce/jscripts/tiny_mce/plugins/advlink/link1.php on line 2

@@ -1,0 +1,3 @@
+[05-Feb-2012 19:44:17] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/debbane/public_html/final/view/search/search.php on line 94
+[05-Feb-2012 19:44:57] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/debbane/public_html/final/view/search/search.php on line 94
+[05-Feb-2012 19:50:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/debbane/public_html/final/view/search/search.php on line 94
